@@ -11,7 +11,7 @@ hasan = "Muhammad Hasan Muntaha"
 
 
 otro = "otro"
-print(hello_pre + hasan + otro + hello_post)
+print(hello_pre + otro + hello_post)
 
 
 brindil = "Aditya Kurniawan"
