@@ -8,8 +8,6 @@ print(hello_pre + flo + hello_post)
 hasan = "Muhammad Hasan Muntaha"
 print(hello_pre + hasan + hello_post)
 
-
-
 otro = "otro"
 print(hello_pre + otro + hello_post)
 
@@ -21,3 +19,6 @@ print(hello_pre + Seifra + hello_post)
 
 arief = "Arief Gunawan"
 print(hello_pre + arief + hello_post)
+
+Lingga = "Lingga Aditya"
+print(hello_pre + Lingga + hello_post)
