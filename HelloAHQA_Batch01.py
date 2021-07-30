@@ -8,3 +8,7 @@ print(hello_pre + flo + hello_post)
 hasan = "Muhammad Hasan Muntaha"
 print(hello_pre + hasan + hello_post)
 
+arief = "Arief Gunawan"
+print(hello_pre + arief + hello_post)
+
+
