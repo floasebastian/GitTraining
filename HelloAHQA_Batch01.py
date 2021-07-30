@@ -13,3 +13,6 @@ hasan = "Muhammad Hasan Muntaha"
 otro = "otro"
 print(hello_pre + hasan + otro + hello_post)
 
+
+brindil = "Aditya Kurniawan"
+print(hello_pre + brindil + hello_post)
