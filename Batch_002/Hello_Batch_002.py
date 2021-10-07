@@ -13,3 +13,6 @@ print("Hello, " + myname + "!")
 =======
 myname = "Dani Adityatama"
 print(hello_pre + "my name is " + myname + hello_post)
+
+rasu = "Ragil Sutresno"
+print(hello_pre + rasu + hello_post)
